@@ -1,0 +1,5 @@
+create first repository (done)
+add file to repo (done)
+check out git history (done)
+pulling from a remote repository
+check off tasks
